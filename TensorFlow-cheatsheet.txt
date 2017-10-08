@@ -1,0 +1,8 @@
+---------------------------------------------------------------------
+ CHEATSHEET FOR TENSORFLOW COMMANDS
+ ---------------------------------------------------------------------
+ 
+# Executing tensorboard
+
+tensorboard --logdir="directory" -> Where directory is where the graph folder is located
+
